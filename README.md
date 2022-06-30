@@ -12,4 +12,4 @@ Repositório da disciplina de Informática para o Trabalho - 2022
 | 16 de junho | feriado    |
 | 23 de junho | P1 prática |
 | 30 de junho | [Tarefa 3](https://github.com/AnnyCaroline/informatica-para-trabalho/issues/2)  |
-| 7 de julho  | P1 teórica |
+| 7 de julho  | P1 teórica e data limite para entrega da P1 prática |
