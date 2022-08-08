@@ -4,6 +4,7 @@ Repositório da disciplina de Informática para o Trabalho - 2022
 ## Slides
 - [Introdução ao Sistema Operacional](https://github.com/AnnyCaroline/informatica-para-trabalho/blob/main/slides/0-Introdu%C3%A7%C3%A3o%20ao%20Sistema%20Operacional.pdf)
 - [Introdução a Git e GitHub](https://github.com/AnnyCaroline/informatica-para-trabalho/blob/main/slides/1-Introdu%C3%A7%C3%A3o%20a%20Git%20e%20GitHub.pdf)
+- [4-8](https://colegiorealengo-my.sharepoint.com/:p:/g/personal/anny_chagas_colegiorealengo_br/ETcrGH_pi7JNulF-Wv8DgEcBnRUiaMPBNtj5jSNucpmqdw?e=fD8XV7)
 
 ## Tarefas
 - [Conhecendo o Git e GitHub](https://github.com/AnnyCaroline/informatica-para-trabalho/issues/1)
