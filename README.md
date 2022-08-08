@@ -9,7 +9,6 @@ Repositório da disciplina de Informática para o Trabalho - 2022
 ## Tarefas
 - [Conhecendo o Git e GitHub](https://github.com/AnnyCaroline/informatica-para-trabalho/issues/1)
 - [Issues e Pull Requests](https://github.com/AnnyCaroline/informatica-para-trabalho/issues/2)
-- [4-8](https://colegiorealengo-my.sharepoint.com/:p:/g/personal/anny_chagas_colegiorealengo_br/ETcrGH_pi7JNulF-Wv8DgEcBCruHTahNlUOcVA2SsiDNfA?e=ZZcfAZ)
 
 ## Aulas
 | Data        |            |
