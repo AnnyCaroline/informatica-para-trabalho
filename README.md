@@ -6,10 +6,10 @@ Repositório da disciplina de Informática para o Trabalho - 2022
 ### P1 - trabalho extra
 - [Enunciado](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/EbW71_GkNPBKjxkO2MTvRowBy60z8gE7aNL58M0xao-ENw?e=wNTPnJ)
 - [Material de apoio](https://colegiorealengo-my.sharepoint.com/:p:/g/personal/anny_chagas_colegiorealengo_br/EdRnWfPonytKr5ZONKyvr2UBhwqs5zHw48Ki2trYXsz1Fg?e=VoPuvO)
-- Data de entrega: até o final do dia 12/10/2022
+- Data de entrega: até o final do dia 05/10/2022
 
 ### P1 
-- Data: 13/10/2022
+- Data: 06/10/2022
 - Conteúdo:
   - Word
      - [Estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/Eexl3nAlnSJBp9B2Vq79iYgBIilvZmyvEHK55Vu9qN1zTw?e=f3yRhF)
