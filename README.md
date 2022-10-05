@@ -13,17 +13,21 @@ Repositório da disciplina de Informática para o Trabalho - 2022
 - Conteúdo:
   - Word
      - [Estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/Eexl3nAlnSJBp9B2Vq79iYgBIilvZmyvEHK55Vu9qN1zTw?e=f3yRhF)
+     - [Gabarito do estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/ETm8WOFHqJRBlC6lL37-po4B_zL-FUUoMfQT9jFgNdxY-A?e=5RRiQj) 
   - Excel
     - [Material](https://colegiorealengo-my.sharepoint.com/:p:/g/personal/anny_chagas_colegiorealengo_br/EdRnWfPonytKr5ZONKyvr2UBhwqs5zHw48Ki2trYXsz1Fg?e=VoPuvO)
     - [Estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/EfeCW3uGgPFLo-XaYyPTdC0B40tUQuBIdkSyC1xH4KkY-A?e=8LnNON)
+    - [Gabarito do estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/ET0TltyDyp9FvnTnPPn9Tx4BhlD6wZAFnTqQKWqcxaf3LA?e=adoRJo)
 
 ### Provão técnico
 - Data: 20/10/2022
 - Conteúdo
     - Word e Excel: Mesmo conteúdo da P1 escrita
-    - Power BI
-         - Material – AINDA VOU DIVULGAR
-         - Estudo dirigido – AINDA VOU DIVULGAR
+    - Power Point
+         - [Material vídeo](https://youtu.be/dZdmq0PKpvQ)
+         - [Estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/EUYlJCG0jF1BjNpcOFwfl_EBH7qEVWveMgfG9sUkk3cUKA?e=8yX2lv)
+         - [Gabarito do estudo dirigido](https://colegiorealengo-my.sharepoint.com/:b:/g/personal/anny_chagas_colegiorealengo_br/EUcI-7It_rlMk-ZpMHerCOYBprH9Ors7dJBdeAkhfN07jA?e=3wq9BJ)
+    - ~~Power BI~~ não vai ser cobrado no provão técnico
 
 ## Segundo trimestre
 
